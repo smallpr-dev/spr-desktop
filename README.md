@@ -1,1 +1,1 @@
-# gitrebase-desktop-public
+# spr-desktop
